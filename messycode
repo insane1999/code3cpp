@@ -306,3 +306,5 @@ void main()
      }  while(ch!=8);
 
  }
+ 
+ // This is Hotel Management Code Project
